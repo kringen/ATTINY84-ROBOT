@@ -1,0 +1,52 @@
+Partlist
+
+Exported from TinyBot.sch at 3/28/2013 11:48:23 PM
+
+EAGLE Version 6.4.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part     Value          Device                Package      Library      Sheet
+
+C1                      CPOL-USE2.5-6         E2,5-6       rcl          1
+C2                      CPOL-USE2.5-6         E2,5-6       rcl          1
+C3                      C-US025-030X050       C025-030X050 rcl          1
+C4                      C-US025-030X050       C025-030X050 rcl          1
+D1                      SCHOTTKY-DIODEF126Z12 F126Z12      diode        1
+D2                      SCHOTTKY-DIODEF126Z12 F126Z12      diode        1
+D3                      SCHOTTKY-DIODEF126Z12 F126Z12      diode        1
+D4                      SCHOTTKY-DIODEF126Z12 F126Z12      diode        1
+D5                      SCHOTTKY-DIODEF126Z12 F126Z12      diode        1
+D6                      SCHOTTKY-DIODEF126Z12 F126Z12      diode        1
+D7                      SCHOTTKY-DIODEF126Z12 F126Z12      diode        1
+D8                      SCHOTTKY-DIODEF126Z12 F126Z12      diode        1
+IC1      7805           7805TV                TO220V       linear       1
+J1       22-27-2021-02  22-27-2021-02         6410-02      con-molex    1
+J2       22-27-2021-02  22-27-2021-02         6410-02      con-molex    1
+PAD1                    2,54/0,8              2,54/0,8     wirepad      1
+PAD2                    2,54/0,8              2,54/0,8     wirepad      1
+PAD3                    2,54/0,8              2,54/0,8     wirepad      1
+PAD4                    2,54/0,8              2,54/0,8     wirepad      1
+PAD5                    2,54/0,8              2,54/0,8     wirepad      1
+PAD6                    2,54/0,8              2,54/0,8     wirepad      1
+PAD7                    2,54/0,8              2,54/0,8     wirepad      1
+PAD8                    2,54/0,8              2,54/0,8     wirepad      1
+PAD9                    2,54/0,8              2,54/0,8     wirepad      1
+PAD10                   2,54/0,8              2,54/0,8     wirepad      1
+PAD11                   2,54/0,8              2,54/0,8     wirepad      1
+PAD12                   2,54/0,8              2,54/0,8     wirepad      1
+PAD13                   2,54/0,8              2,54/0,8     wirepad      1
+PAD14                   2,54/0,8              2,54/0,8     wirepad      1
+PAD15                   2,54/0,8              2,54/0,8     wirepad      1
+PAD16                   2,54/0,8              2,54/0,8     wirepad      1
+PAD17                   2,54/0,8              2,54/0,8     wirepad      1
+PAD18                   2,54/0,8              2,54/0,8     wirepad      1
+PAD19                   2,54/0,8              2,54/0,8     wirepad      1
+PAD20                   2,54/0,8              2,54/0,8     wirepad      1
+PAD21                   2,54/0,8              2,54/0,8     wirepad      1
+PAD22                   2,54/0,8              2,54/0,8     wirepad      1
+PAD23                   2,54/0,8              2,54/0,8     wirepad      1
+SV1                     MA03-2                MA03-2       con-lstb     1
+U$5      ATTINY84       ATTINY84              DIL14        ATTINY84     1
+U1       L298           L298                  MULTIWATT15  SparkFun     1
+X3                      W237-102              W237-102     con-wago-500 1
